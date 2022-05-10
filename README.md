@@ -5,4 +5,4 @@ Projeto para integração de dois ambientes durante a rotina do trabalho, desenv
 
 ![enter image description here](https://i.imgur.com/kVIQSnZ.png)
 
-![enter image description here](blob:https://imgur.com/8de2419d-e356-4422-9625-400f30d6f279)
+![enter image description here](https://i.imgur.com/AxhMWIE.png)
